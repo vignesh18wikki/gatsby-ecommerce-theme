@@ -19,7 +19,7 @@ const LoginPage = (props) => {
     password: '',
   };
 
-  const [loginForm, setLoginForm] = useState(initialState);
+[FM_form id="1"]
   const [errorForm, setErrorForm] = useState(errorState);
   const [errorMessage, setErrorMessage] = useState('');
 
